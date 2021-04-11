@@ -1,0 +1,9 @@
+bin/
+*.class
+.project
+*.iml
+.settings/
+.classpath
+.DS_PATH
+.idea/
+out/
