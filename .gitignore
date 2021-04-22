@@ -4,6 +4,6 @@ bin/
 *.iml
 .settings/
 .classpath
-.DS_PATH
+.DS_Store
 .idea/
 out/
