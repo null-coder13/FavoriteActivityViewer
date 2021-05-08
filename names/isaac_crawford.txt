@@ -1,0 +1,4 @@
+Isaac Crawford
+portingMusic.JPG
+Creating Music
+I always like to think I'm a musician before a programmer, since music has played much larger part in my life. Of course, why not combine the two? I've recently started porting music using the Super Mario World soundfont, which has been a really fun synthesis of programming and music. (Shameless plug for my newest port: https://www.smwcentral.net/?p=section&a=details&id=26958)
